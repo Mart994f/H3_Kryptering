@@ -24,12 +24,9 @@ namespace Random
             System.Random random = new System.Random();
             int[] numbers = new int[iterations];
 
-            using (RNGCryptoServiceProvider rNGCrypto = new RNGCryptoServiceProvider())
+            for (int i = 0; i < numbers.Length; i++)
             {
-                for (int i = 0; i < numbers.Length; i++)
-                {
-                    numbers[i] = random.Next();
-                }
+                numbers[i] = random.Next();
             }
 
             return numbers;
