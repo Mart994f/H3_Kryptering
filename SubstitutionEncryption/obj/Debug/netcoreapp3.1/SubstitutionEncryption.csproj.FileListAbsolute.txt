@@ -1,0 +1,13 @@
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.csprojAssemblyReference.cache
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.AssemblyInfoInputs.cache
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.AssemblyInfo.cs
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.csproj.CoreCompileInputs.cache
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.exe
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.deps.json
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.runtimeconfig.json
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.runtimeconfig.dev.json
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.dll
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\bin\Debug\netcoreapp3.1\SubstitutionEncryption.pdb
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.dll
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.pdb
+C:\Users\mart994f\source\repos\Tilfældigheder\SubstitutionEncryption\obj\Debug\netcoreapp3.1\SubstitutionEncryption.genruntimeconfig.cache
